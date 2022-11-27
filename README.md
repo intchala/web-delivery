@@ -12,9 +12,11 @@ WEBSITE DE DELIVERY
 #### FERRAMENTAS USADAS
 ---
 <div style="display: inline_block">
+
 <img src="" width="50" height="50" alt=""> 
 <img src="src/img/wordpress.svg" width="50" height="50" alt="">
 <img src="src/img/html5.svg" width="50" height="50" alt="">
 <img src="src/img/css3.svg" width="50" height="50" alt="">
 <img src="src/img/javascript.svg" width="50" height="50" alt="">
+
 </div>
